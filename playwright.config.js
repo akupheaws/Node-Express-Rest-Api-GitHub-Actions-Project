@@ -10,6 +10,7 @@ const config = {
     /**
      * Maximum time expect() should wait for the condition to be met.
      * For example in `await expect(locator).toHaveText();`
+     * workflow should work well
      */
     timeout: 5000,
   },
